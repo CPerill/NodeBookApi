@@ -47,3 +47,5 @@ Temporary Items
 .apdisk
 node_modules/*
 package-lock.json
+node-js-express-rest-web-services.zip
+node-js-express-rest-web-services/*
